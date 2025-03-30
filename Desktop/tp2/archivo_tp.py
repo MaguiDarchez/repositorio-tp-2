@@ -1,1 +1,2 @@
-print("Archivo para mi repositorio de GitHub")
+app = "GitHub"
+print(f"Archivo para mi repositorio de {app}")
