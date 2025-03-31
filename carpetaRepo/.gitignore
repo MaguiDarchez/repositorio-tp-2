@@ -1,0 +1,8 @@
+# Ignorar archivos y carpetas innecesarias
+Desktop/
+.bash_history
+.config/
+.gitconfig
+.vscode/
+*.txt
+*.docx
